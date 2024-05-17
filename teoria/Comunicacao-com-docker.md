@@ -23,7 +23,7 @@ Dessa forma, para trocar de conexão, podemos rodar o comando:
 \c <nome_do_database>
 ```
 
-![alt text](image.png)
+![alt text](/teoria/images/image.png)
 
 E assim, podemos listar as tabelas com o comando:
 
@@ -31,7 +31,7 @@ E assim, podemos listar as tabelas com o comando:
 \dt 
 ```
 
-![alt text](image-1.png)
+![alt text](/teoria/images/image-1.png)
 
 E dai em diante é so navegar com os comandos SQL do postgres:
 
