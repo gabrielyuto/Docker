@@ -13,7 +13,7 @@ Com isso, teremos acesso ao banco do container. Junto a isso podemos listar as t
 \l
 ```
 
-![alt text](/teoria/images/image.png)
+![alt text](/teoria/images/image-1.png)
 
 
 Para listar as tabelas, primeiro precisamos nos conectar ao banco. Note que no exemplo acima, o banco que esta conectado é o postgres.
@@ -23,7 +23,7 @@ Dessa forma, para trocar de conexão, podemos rodar o comando:
 \c <nome_do_database>
 ```
 
-![alt text](/teoria/images/image.png)
+![alt text](/teoria/images/image-2.png)
 
 E assim, podemos listar as tabelas com o comando:
 
@@ -31,7 +31,7 @@ E assim, podemos listar as tabelas com o comando:
 \dt 
 ```
 
-![alt text](/teoria/images/image-1.png)
+![alt text](/teoria/images/image-3.png)
 
 E dai em diante é so navegar com os comandos SQL do postgres:
 
